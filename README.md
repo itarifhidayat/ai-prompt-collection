@@ -9,6 +9,9 @@ A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, a
 ### 🧠 ChatGPT Prompts
 - `productivity.md` — Automate daily tasks, emails, summaries  
 - `content-creator.md` — Blog ideas, SEO-optimized content, scripts
+- `marketing.md`: Branding, ads, email campaigns
+- `coding.md`: Snippets, debugging, docs, testing
+- `freelance.md`: Proposal, client replies, follow-ups
 
 ### 🎨 Midjourney Prompts
 - `logo-design.md` — Generate modern logo design ideas using AI
@@ -30,11 +33,12 @@ A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, a
 
 ## 📈 Use Cases
 
-- ✍️ Content Creation  
-- 🎨 Graphic & Logo Design  
-- 🧑‍💻 Developer Assistant  
-- 📈 Business Automation  
-- 🎓 Student Research Aid  
+✍️ Content Creation
+🎨 Graphic & Logo Design
+🧑‍💻 Developer Assistant
+📈 Business Automation
+🎓 Student Research Aid
+🙋‍♂️ Author & Freelancer Tools
 
 ---
 
