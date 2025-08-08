@@ -1,59 +1,37 @@
-# 🤖 AI Prompt Collection
+# 👨‍💻 ChatGPT Prompts: Coding & Development
 
-A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, and other generative tools — designed to help **creators, developers, marketers, and freelancers** be more productive and creative.
-
----
-
-## 📂 Prompt Categories
-
-### 🧠 ChatGPT Prompts
-- `productivity.md` — Automate daily tasks, emails, summaries  
-- `content-creator.md` — Blog ideas, SEO-optimized content, scripts
-
-### 🎨 Midjourney Prompts
-- `logo-design.md` — Generate modern logo design ideas using AI
-
-### 🖼️ DALL·E Prompts
-- `image-generation.md` — Creative prompts for stunning AI-generated images
+Kumpulan prompt untuk mempercepat proses coding, debugging, dokumentasi, dan pembuatan fitur bagi developer.
 
 ---
 
-## 🛠 How to Use
+## 🧱 Generate Snippet
 
-1. Open the folder of the tool you are using (ChatGPT / Midjourney / DALL·E)  
-2. Copy any prompt into your AI tool  
-3. Modify the context (e.g., brand name, topic) as needed  
-
-> 💡 All prompts are optimized and ready for real-world use.
+> "Tulis snippet React untuk form login dengan validasi basic menggunakan TailwindCSS."
 
 ---
 
-## 📈 Use Cases
+## 🐛 Debugging Bantuan
 
-- ✍️ Content Creation  
-- 🎨 Graphic & Logo Design  
-- 🧑‍💻 Developer Assistant  
-- 📈 Business Automation  
-- 🎓 Student Research Aid  
+> "Saya punya error di React: 'Cannot read property X of undefined'. Apa kemungkinan penyebab dan solusinya?"
 
 ---
 
-## 🙋‍♂️ Author
+## 🗂️ Struktur Proyek
 
-**Arif Hidayat**  
-🔗 [GitHub](https://github.com/itarifhidayat)  
-🌐 [LinkedIn](https://linkedin.com/in/itarifhidayat)  
-📩 Email: it.arifhidayat@gmail.com
+> "Buat struktur folder ideal untuk aplikasi fullstack MERN yang punya fitur autentikasi dan dashboard admin."
 
 ---
 
-## 📄 License
+## 🧪 Unit Testing Prompt
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it to help others.
+> "Buat unit test untuk fungsi JavaScript berikut ini \[masukkan kode fungsi] menggunakan Jest."
 
 ---
 
-## ⭐️ Give a Star
+## 📘 Dokumentasi Otomatis
 
-If you find this helpful, please **give this repo a ⭐️ star** and share it with your network!
+> "Buat dokumentasi singkat untuk API endpoint berikut: POST /api/users/register (body, response, error handling)."
+
+---
+
+> 💡 Prompt ini dapat digunakan untuk mempercepat coding harian, pair programming, dan dokumentasi teknis.
