@@ -1,59 +1,37 @@
-# 🤖 AI Prompt Collection
+# ✍️ ChatGPT Prompts: Content Creator
 
-A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, and other generative tools — designed to help **creators, developers, marketers, and freelancers** be more productive and creative.
-
----
-
-## 📂 Prompt Categories
-
-### 🧠 ChatGPT Prompts
-- `productivity.md` — Automate daily tasks, emails, summaries  
-- `content-creator.md` — Blog ideas, SEO-optimized content, scripts
-
-### 🎨 Midjourney Prompts
-- `logo-design.md` — Generate modern logo design ideas using AI
-
-### 🖼️ DALL·E Prompts
-- `image-generation.md` — Creative prompts for stunning AI-generated images
+Prompt AI yang dirancang untuk membantu content creator membuat konten menarik, cepat, dan efisien.
 
 ---
 
-## 🛠 How to Use
+## 🧠 Ide Konten Harian
 
-1. Open the folder of the tool you are using (ChatGPT / Midjourney / DALL·E)  
-2. Copy any prompt into your AI tool  
-3. Modify the context (e.g., brand name, topic) as needed  
-
-> 💡 All prompts are optimized and ready for real-world use.
+> "Berikan saya 10 ide konten harian untuk niche \[masukkan topik seperti: teknologi, self improvement, keuangan pribadi] yang cocok untuk Instagram reels dan TikTok."
 
 ---
 
-## 📈 Use Cases
+## 📝 Penulisan Artikel SEO
 
-- ✍️ Content Creation  
-- 🎨 Graphic & Logo Design  
-- 🧑‍💻 Developer Assistant  
-- 📈 Business Automation  
-- 🎓 Student Research Aid  
+> "Tulis artikel SEO 800 kata dengan keyword 'cara mengatur keuangan di usia 20an', lengkap dengan heading, subheading, dan meta description."
 
 ---
 
-## 🙋‍♂️ Author
+## 🎬 Skrip Video YouTube
 
-**Arif Hidayat**  
-🔗 [GitHub](https://github.com/itarifhidayat)  
-🌐 [LinkedIn](https://linkedin.com/in/itarifhidayat)  
-📩 Email: it.arifhidayat@gmail.com
+> "Buat skrip video YouTube berdurasi 5 menit dengan gaya casual untuk topik: 'Apakah AI akan menggantikan pekerjaan manusia?'. Sertakan pembukaan, isi, dan penutupan."
 
 ---
 
-## 📄 License
+## 📢 Caption Media Sosial
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it to help others.
+> "Buat 3 caption singkat dan engaging untuk promosi produk digital berupa e-book pengembangan diri. Gunakan tone yang friendly dan memancing interaksi."
 
 ---
 
-## ⭐️ Give a Star
+## 📧 Email Newsletter
 
-If you find this helpful, please **give this repo a ⭐️ star** and share it with your network!
+> "Tulis email newsletter mingguan yang berisi 3 tips produktivitas dan 1 rekomendasi tools, dengan gaya tulisan ringan dan tidak terlalu formal."
+
+---
+
+> 💡 Gunakan prompt ini untuk mempercepat workflow konten harian dan memperluas jangkauan audiens.

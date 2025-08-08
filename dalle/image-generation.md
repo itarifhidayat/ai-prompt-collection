@@ -1,59 +1,37 @@
-# 🤖 AI Prompt Collection
+# 🖼️ DALL·E Prompts: Image Generation
 
-A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, and other generative tools — designed to help **creators, developers, marketers, and freelancers** be more productive and creative.
-
----
-
-## 📂 Prompt Categories
-
-### 🧠 ChatGPT Prompts
-- `productivity.md` — Automate daily tasks, emails, summaries  
-- `content-creator.md` — Blog ideas, SEO-optimized content, scripts
-
-### 🎨 Midjourney Prompts
-- `logo-design.md` — Generate modern logo design ideas using AI
-
-### 🖼️ DALL·E Prompts
-- `image-generation.md` — Creative prompts for stunning AI-generated images
+Kumpulan prompt kreatif untuk menghasilkan gambar AI yang estetik dan bermanfaat menggunakan DALL·E.
 
 ---
 
-## 🛠 How to Use
+## 🌄 Ilustrasi Pemandangan Alam
 
-1. Open the folder of the tool you are using (ChatGPT / Midjourney / DALL·E)  
-2. Copy any prompt into your AI tool  
-3. Modify the context (e.g., brand name, topic) as needed  
-
-> 💡 All prompts are optimized and ready for real-world use.
+> "A peaceful mountain landscape during golden hour, with soft lighting, pine trees, and a lake reflecting the sky, digital painting style"
 
 ---
 
-## 📈 Use Cases
+## 🏙️ Poster Kota Futuristik
 
-- ✍️ Content Creation  
-- 🎨 Graphic & Logo Design  
-- 🧑‍💻 Developer Assistant  
-- 📈 Business Automation  
-- 🎓 Student Research Aid  
+> "Futuristic cityscape at night, neon lights, flying cars, ultra-modern architecture, synthwave aesthetic, high detail"
 
 ---
 
-## 🙋‍♂️ Author
+## 📦 Mockup Produk Digital
 
-**Arif Hidayat**  
-🔗 [GitHub](https://github.com/itarifhidayat)  
-🌐 [LinkedIn](https://linkedin.com/in/itarifhidayat)  
-📩 Email: it.arifhidayat@gmail.com
+> "Flatlay of smartphone displaying an app UI on a desk with notebook and pen, minimal clean background, perfect for a mockup"
 
 ---
 
-## 📄 License
+## 📚 Cover Buku Nonfiksi
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it to help others.
+> "Book cover design for a nonfiction book titled 'Focus & Flow', modern style, white background, abstract brain shapes, bold typography"
 
 ---
 
-## ⭐️ Give a Star
+## 🧘‍♀️ Ilustrasi Gaya Hidup Sehat
 
-If you find this helpful, please **give this repo a ⭐️ star** and share it with your network!
+> "A woman meditating in a zen garden with bamboo, rocks, and a small waterfall, calm color palette, watercolor illustration"
+
+---
+
+> 💡 Prompt dapat disesuaikan dengan konteks proyek kamu. Gunakan DALL·E melalui platform OpenAI atau tools terintegrasi lain.
