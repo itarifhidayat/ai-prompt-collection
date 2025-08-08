@@ -1,59 +1,37 @@
-# 🤖 AI Prompt Collection
+# 🧑‍💼 ChatGPT Prompts: Freelance & Client Work
 
-A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, and other generative tools — designed to help **creators, developers, marketers, and freelancers** be more productive and creative.
-
----
-
-## 📂 Prompt Categories
-
-### 🧠 ChatGPT Prompts
-- `productivity.md` — Automate daily tasks, emails, summaries  
-- `content-creator.md` — Blog ideas, SEO-optimized content, scripts
-
-### 🎨 Midjourney Prompts
-- `logo-design.md` — Generate modern logo design ideas using AI
-
-### 🖼️ DALL·E Prompts
-- `image-generation.md` — Creative prompts for stunning AI-generated images
+Prompt AI untuk membantu freelancer membuat proposal, berkomunikasi dengan klien, dan mengelola pekerjaan secara profesional.
 
 ---
 
-## 🛠 How to Use
+## 📝 Proposal Proyek
 
-1. Open the folder of the tool you are using (ChatGPT / Midjourney / DALL·E)  
-2. Copy any prompt into your AI tool  
-3. Modify the context (e.g., brand name, topic) as needed  
-
-> 💡 All prompts are optimized and ready for real-world use.
+> "Buat proposal singkat untuk jasa pembuatan landing page, mencakup deskripsi layanan, waktu pengerjaan, dan harga."
 
 ---
 
-## 📈 Use Cases
+## 📩 Balasan Client
 
-- ✍️ Content Creation  
-- 🎨 Graphic & Logo Design  
-- 🧑‍💻 Developer Assistant  
-- 📈 Business Automation  
-- 🎓 Student Research Aid  
+> "Buat balasan profesional untuk klien yang menanyakan revisi desain terlalu banyak di luar scope awal."
 
 ---
 
-## 🙋‍♂️ Author
+## 💬 Template Follow-Up
 
-**Arif Hidayat**  
-🔗 [GitHub](https://github.com/itarifhidayat)  
-🌐 [LinkedIn](https://linkedin.com/in/itarifhidayat)  
-📩 Email: it.arifhidayat@gmail.com
+> "Buat email follow-up 3 hari setelah mengirim penawaran freelance melalui LinkedIn."
 
 ---
 
-## 📄 License
+## 💵 Negosiasi Harga
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it to help others.
+> "Buat kalimat sopan untuk menegaskan harga jasa yang saya tawarkan tidak bisa ditawar karena kualitas dan workload."
 
 ---
 
-## ⭐️ Give a Star
+## 🛠️ Portofolio Ringkas
 
-If you find this helpful, please **give this repo a ⭐️ star** and share it with your network!
+> "Buat ringkasan portofolio saya sebagai frontend developer yang pernah mengerjakan dashboard admin, landing page, dan website toko online."
+
+---
+
+> 💡 Prompt ini cocok untuk freelance designer, developer, writer, dan semua pekerja lepas digital.
