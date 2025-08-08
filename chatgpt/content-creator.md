@@ -1,37 +1,37 @@
-# 🧠 ChatGPT Prompts: Productivity
+# ✍️ ChatGPT Prompts: Content Creator
 
-Berikut adalah kumpulan prompt ChatGPT untuk meningkatkan produktivitas pribadi dan profesional.
-
----
-
-## 📋 To-Do List Harian Otomatis
-
-> "Buatkan saya to-do list harian berdasarkan pekerjaan saya sebagai front-end developer dengan waktu kerja dari jam 9 pagi sampai 5 sore. Prioritaskan tugas penting di pagi hari."
+Prompt AI yang dirancang untuk membantu content creator membuat konten menarik, cepat, dan efisien.
 
 ---
 
-## ✉️ Ringkasan Email
+## 🧠 Ide Konten Harian
 
-> "Ringkas isi email ini menjadi poin-poin penting dalam 3 kalimat: \[paste isi email di sini]"
-
----
-
-## 📆 Jadwal Kerja Mingguan
-
-> "Buatkan jadwal kerja mingguan untuk pekerja remote yang memiliki 5 proyek kecil dan 1 proyek besar, dengan waktu kerja fleksibel antara jam 8 pagi hingga 7 malam."
+> "Berikan saya 10 ide konten harian untuk niche \[masukkan topik seperti: teknologi, self improvement, keuangan pribadi] yang cocok untuk Instagram reels dan TikTok."
 
 ---
 
-## 🧘 Rencana Istirahat Sehat
+## 📝 Penulisan Artikel SEO
 
-> "Buatkan rencana istirahat singkat 5–10 menit yang bisa dilakukan setiap 90 menit selama bekerja di depan laptop."
-
----
-
-## 📈 Evaluasi Produktivitas
-
-> "Saya merasa kurang produktif minggu ini. Bantu saya evaluasi dan susun rencana perbaikan untuk minggu depan."
+> "Tulis artikel SEO 800 kata dengan keyword 'cara mengatur keuangan di usia 20an', lengkap dengan heading, subheading, dan meta description."
 
 ---
 
-> 💡 Gunakan dan sesuaikan prompt ini sesuai kebutuhanmu!
+## 🎬 Skrip Video YouTube
+
+> "Buat skrip video YouTube berdurasi 5 menit dengan gaya casual untuk topik: 'Apakah AI akan menggantikan pekerjaan manusia?'. Sertakan pembukaan, isi, dan penutupan."
+
+---
+
+## 📢 Caption Media Sosial
+
+> "Buat 3 caption singkat dan engaging untuk promosi produk digital berupa e-book pengembangan diri. Gunakan tone yang friendly dan memancing interaksi."
+
+---
+
+## 📧 Email Newsletter
+
+> "Tulis email newsletter mingguan yang berisi 3 tips produktivitas dan 1 rekomendasi tools, dengan gaya tulisan ringan dan tidak terlalu formal."
+
+---
+
+> 💡 Gunakan prompt ini untuk mempercepat workflow konten harian dan memperluas jangkauan audiens.
