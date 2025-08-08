@@ -1,59 +1,37 @@
-# 🤖 AI Prompt Collection
+# 📢 ChatGPT Prompts: Marketing & Branding
 
-A curated set of ready-to-use **AI prompts** for ChatGPT, Midjourney, DALL·E, and other generative tools — designed to help **creators, developers, marketers, and freelancers** be more productive and creative.
-
----
-
-## 📂 Prompt Categories
-
-### 🧠 ChatGPT Prompts
-- `productivity.md` — Automate daily tasks, emails, summaries  
-- `content-creator.md` — Blog ideas, SEO-optimized content, scripts
-
-### 🎨 Midjourney Prompts
-- `logo-design.md` — Generate modern logo design ideas using AI
-
-### 🖼️ DALL·E Prompts
-- `image-generation.md` — Creative prompts for stunning AI-generated images
+Prompt AI untuk membantu marketer dan pemilik bisnis menjalankan strategi pemasaran yang lebih efektif dan kreatif.
 
 ---
 
-## 🛠 How to Use
+## 🎯 Brand Positioning
 
-1. Open the folder of the tool you are using (ChatGPT / Midjourney / DALL·E)  
-2. Copy any prompt into your AI tool  
-3. Modify the context (e.g., brand name, topic) as needed  
-
-> 💡 All prompts are optimized and ready for real-world use.
+> "Buat positioning statement untuk brand \[nama brand] di niche \[kategori], dengan gaya bahasa profesional dan mudah dipahami."
 
 ---
 
-## 📈 Use Cases
+## 📲 Iklan Facebook & Instagram
 
-- ✍️ Content Creation  
-- 🎨 Graphic & Logo Design  
-- 🧑‍💻 Developer Assistant  
-- 📈 Business Automation  
-- 🎓 Student Research Aid  
+> "Tulis 3 versi iklan Facebook untuk produk \[nama produk] yang ditujukan untuk audiens usia 25–35 tahun, fokus pada keunggulan dan ajakan bertindak."
 
 ---
 
-## 🙋‍♂️ Author
+## ✍️ Email Campaign
 
-**Arif Hidayat**  
-🔗 [GitHub](https://github.com/itarifhidayat)  
-🌐 [LinkedIn](https://linkedin.com/in/itarifhidayat)  
-📩 Email: it.arifhidayat@gmail.com
+> "Buat rangkaian 3 email untuk campaign promosi diskon akhir tahun produk digital. Gunakan pendekatan storytelling dan urgency."
 
 ---
 
-## 📄 License
+## 📈 Headline Landing Page
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it to help others.
+> "Berikan 5 headline alternatif untuk landing page yang menjual jasa konsultasi keuangan. Gaya bahasa persuasif dan profesional."
 
 ---
 
-## ⭐️ Give a Star
+## 🛒 Strategi Penjualan
 
-If you find this helpful, please **give this repo a ⭐️ star** and share it with your network!
+> "Jelaskan strategi soft-selling untuk produk baru berupa e-book edukasi, cocok untuk promosi di Instagram story dan WhatsApp broadcast."
+
+---
+
+> 💡 Cocok untuk digital marketer, solopreneur, dan tim pemasaran startup.
